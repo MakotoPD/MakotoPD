@@ -3,7 +3,7 @@
 
 I am a front-end developer.🚀 <br>
 I have been creating websites commercially for four years. 🎉 <br>
-I also have my own website [www.makoto.pl](http://makoto.pl "www.makoto.pl") and YouTube channel on which I am going to run vlogs and programming guides in VueJS and GatsbyJS. 💚
+I also have my own website [www.makoto.vercel.app](http://makoto.vercel.app "www.makoto.vercel.app") and YouTube channel on which I am going to run vlogs and programming guides in VueJS and GatsbyJS. 💚
 
 You can find me on [Instagram](https://www.instagram.com/makotopl/) and [Facebook](https://www.facebook.com/makotopl/)
 
