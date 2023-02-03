@@ -3,9 +3,9 @@
 
 I am a front-end developer.🚀 <br>
 I have been creating websites commercially for four years. 🎉 <br>
-I also have my own website [www.makoto.vercel.app](http://makoto.vercel.app "www.makoto.vercel.app") and YouTube channel on which I am going to run vlogs and programming guides in VueJS and GatsbyJS. 💚
+I also have my own website [www.makoto.click](https://makoto.ckick "www.makoto.click") and YouTube channel on which I am going to run vlogs and programming guides in NuxtJS and GatsbyJS. 💚
 
-You can find me on [Instagram](https://www.instagram.com/makotopl/) and [Facebook](https://www.facebook.com/makotopl/)
+You can find me on [Instagram](https://www.instagram.com/makotopd/) and [Facebook](https://www.facebook.com/makotopl/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MakotoPD&show_icons=true&title_color=19f&icon_color=19f&bg_color=09f2&text_color=fa0)](https://github.com/anuraghazra/github-readme-stats)
 
