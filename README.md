@@ -12,7 +12,8 @@
 
 # 📊 GitHub Stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=makotopd&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=makotopd&theme=dark&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makotopd&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakotoPD/MakotoPD/output/github-snake-dark.svg" />
