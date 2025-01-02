@@ -1,5 +1,5 @@
 ![Makoto](https://i.imgur.com/jmdiV8r.png "Makoto")
-# Hello World! I'm Patryk, a Polish Web Developer
+# Hello World! I'm Patryk, a Polish Web Developer 👋🏼
 
 🚀 I am a front-end developer. <br>
 🛜 Currently working on my own [webpage](https://www.makoto.com.pl/)</br>
