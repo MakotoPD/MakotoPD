@@ -13,7 +13,7 @@ You can find me on [Instagram](https://www.instagram.com/makotopd/) and [Faceboo
 
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
-	<img alt="github-snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-snake.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makotopd/makotopd/output/snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makotopd/makotopd/output/snake.svg" />
+	<img alt="github-snake" src="https://raw.githubusercontent.com/makotopd/makotopd/output/github-snake.svg" />
 </picture>
