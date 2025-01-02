@@ -1,5 +1,5 @@
-![Makoto](https://i.imgur.com/n7y1ZDB.png?1 "Makoto")
-<h2 align="center">Graphic Designer & FrontEnd Developer</h2>
+![Makoto](https://i.imgur.com/jmdiV8r.png "Makoto")
+<h1>Hello World! I'm Patryk, a Polish Web Developer</h1>
 
 I am a front-end developer.🚀 <br>
 I have been creating websites commercially for seven years. 🎉 <br>
@@ -10,3 +10,10 @@ You can find me on [Instagram](https://www.instagram.com/makotopd/) and [Faceboo
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MakotoPD&show_icons=true&title_color=19f&icon_color=19f&bg_color=09f2&text_color=fa0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakotoPD&layout=compact&title_color=19f&bg_color=09f2&text_color=fa0)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+	<img alt="github-snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-snake.svg" />
+</picture>
