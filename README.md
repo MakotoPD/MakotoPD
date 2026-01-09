@@ -1,9 +1,10 @@
 ![Makoto](https://i.imgur.com/jmdiV8r.png "Makoto")
 # Hello World! I'm Patryk, a Polish Web Developer 👋🏼
 
-🚀 I am a front-end developer. <br>
-🛜 Currently working on my own [webpage](https://www.makoto.com.pl/)</br>
-👨🏼‍💻 working as a web developer since 2018 <br> </br>
+🚀 I am a front-end developer. <br/>
+🛜 Currently working on Denalify (Kanban)<br/>
+🌎 My [webpage](https://www.makoto.com.pl/) <br/>
+👨🏼‍💻 working as a web developer since 2018 <br> <br/>
 
 
 # 💻 Tech Stack:
