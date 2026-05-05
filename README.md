@@ -1,10 +1,17 @@
 ![Makoto](https://i.imgur.com/jmdiV8r.png "Makoto")
-# Hello World! I'm Patryk, a Polish Web Developer 👋🏼
+# Hi, I'm Patryk 👋
 
-🚀 I am a front-end developer. <br/>
-🛜 Currently working on Denalify (Kanban)<br/>
-🌎 My [webpage](https://www.makoto.com.pl/) <br/>
-👨🏼‍💻 working as a web developer since 2018 <br> <br/>
+🧑‍💻 Full-stack developer from Poland with 7+ years of experience (since 2018)  
+🚀 Passionate about building web apps, desktop tools, and developer utilities  
+🌐 Personal site: [makoto.com.pl](https://www.makoto.com.pl/)  
+
+## 🗂️ Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Denalify**](#) | Kanban-style project management app currently in development | Vue.js, Nuxt, AdonisJS |
+| [**makoto.com.pl**](https://www.makoto.com.pl/) | Personal portfolio and web presence | Nuxt, SASS, Vercel |
+| [**VoidLink**](#) | Desktop app for hosting local Minecraft servers with a built-in tunnel — lets friends connect without port forwarding | Tauri, Rust, Node.js |
 
 
 # 💻 Tech Stack:
