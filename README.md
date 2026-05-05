@@ -20,8 +20,8 @@
 
 
 # 📊 GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=makotopd&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makotopd&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MakotoPD&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MakotoPD&layout=compact&theme=tokyonight)
 
 
 <picture>
