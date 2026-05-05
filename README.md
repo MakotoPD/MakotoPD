@@ -10,7 +10,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Denalify**](#) | Kanban-style project management app currently in development | Vue.js, Nuxt, AdonisJS |
-| [**makoto.com.pl**](https://www.makoto.com.pl/) | Personal portfolio and web presence | Nuxt, SASS, Vercel |
+| [**makoto.com.pl**](https://www.makoto.com.pl/) | Personal portfolio and web presence | Nuxt, SASS |
 | [**VoidLink**](#) | Desktop app for hosting local Minecraft servers with a built-in tunnel — lets friends connect without port forwarding | Tauri, Rust, Node.js |
 
 
