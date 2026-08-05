@@ -16,6 +16,8 @@
 | [**TextPlaceholderAPI-NeoForge**](https://github.com/MakotoPD/TextPlaceholderAPI-NeoForge) | Simple API for creating text placeholders in Minecraft using NeoForge. | Java |
 | [**MKT-Essentials**](https://github.com/MakotoPD/MKT-Essentials) | Server-side utility mod providing homes, warps, teleport requests, and admin tools. | Java |
 | [**Spectra Launcher**](https://github.com/MakotoPD/Spectra-Launcher) | Custom Minecraft Launcher build for better experience in creating modpacks. | Tauri, Rust, Node.js |
+| [**Toccata**](https://github.com/MakotoPD/Toccata) | A open-source software and always free CD-ripping programme. | Tauri, Rust, Node.js |
+
 
 
 # 💻 Tech Stack:
