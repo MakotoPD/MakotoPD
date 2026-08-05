@@ -9,7 +9,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Denalify**](#) | Kanban-style project management app currently in development | Vue.js, Nuxt, AdonisJS |
+| [**Denalify**](https://github.com/Denalify) | Kanban-style project management app currently in development | Vue.js, Nuxt, AdonisJS |
 | [**makoto.com.pl**](https://www.makoto.com.pl/) | Personal portfolio and web presence | Nuxt, SASS |
 | [**VoidLink**](https://github.com/MakotoPD/VoidLink) | Desktop app for hosting local Minecraft servers with a built-in tunnel — lets friends connect without port forwarding | Tauri, Rust, Node.js |
 | [**Create: Marketplace**](https://github.com/MakotoPD/CreateMarketplace) | Global market board for Create: Numismatics. Register your shops, browse server-wide offers, and navigate to them using Xaero's Minimap. | Java |
