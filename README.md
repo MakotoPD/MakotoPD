@@ -10,7 +10,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Denalify**](https://app.denalify.com) | Kanban-style project management app currently in development | Vue.js, Nuxt, AdonisJS |
-| [**makoto.com.pl**](https://www.makoto.com.pl/) | Personal portfolio and web presence | Nuxt, SASS |
+| [**makoto.com.pl**](https://makoto.com.pl/) | Personal portfolio and web presence | Nuxt, SASS |
 | [**VoidLink**](https://github.com/MakotoPD/VoidLink) | Desktop app for hosting local Minecraft servers with a built-in tunnel — lets friends connect without port forwarding | Tauri, Rust, Node.js |
 | [**Create: Marketplace**](https://github.com/MakotoPD/CreateMarketplace) | Global market board for Create: Numismatics. Register your shops, browse server-wide offers, and navigate to them using Xaero's Minimap. | Java |
 | [**TextPlaceholderAPI-NeoForge**](https://github.com/MakotoPD/TextPlaceholderAPI-NeoForge) | Simple API for creating text placeholders in Minecraft using NeoForge. | Java |
