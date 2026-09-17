@@ -17,6 +17,8 @@
 | [**MKT-Essentials**](https://github.com/MakotoPD/MKT-Essentials) | Server-side utility mod providing homes, warps, teleport requests, and admin tools. | Java |
 | [**Spectra Launcher**](https://github.com/SpectraLauncher/Launcher) | Custom Minecraft Launcher build for better experience in creating modpacks. | Tauri, Rust, Node.js |
 | [**Toccata**](https://github.com/MakotoPD/Toccata) | A open-source software and always free CD-ripping programme. | Tauri, Rust, Node.js |
+| [**ChromaFree**](https://github.com/MakotoPD/ChromaFree) | A lightweight virtual camera for Windows 11 that removes, replaces or blurs the background of your webcam on the GPU. It shows up as a regular camera called ChromaFree in Discord, browsers, Meld Studio, OBS and other apps.  | Rust, C++, Slint |
+| [**Streaming**](https://github.com/MakotoPD/streaming) | Chat, alerts, emote combos, scene screens, and more. Pick a style, tweak animations and paste one link into OBS. Tools for strreamers | Vue.js, Nuxt |
 
 
 
